@@ -1,0 +1,11 @@
+[
+	{
+		"Name": "DotNetElements.DevTools.ExamplePlugin",
+		"Version": "1.0.0",
+		"Details": {
+			"DisplayName": "Example Plugin",
+			"ShortDescription": "A demo plugin showing how to write your own DevTools plugin",
+			"Author": "Felix Strauss"
+		}
+	}
+]
