@@ -1,5 +1,0 @@
-# Example plugin
-
-## Usage
-
-todo
